@@ -1,0 +1,2 @@
+class UnknownReponse(Exception):
+    pass

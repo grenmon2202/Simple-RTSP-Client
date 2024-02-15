@@ -1,0 +1,2 @@
+class NoTrack(Exception):
+    pass
